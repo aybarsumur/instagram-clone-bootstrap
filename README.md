@@ -12,5 +12,5 @@ Projemde linkler, sticky ve fixed elemanlar ( navbar, right panel ) çalışıyo
 ## Installation
 Projeyi klonlayarak kullanabilirsiniz. 
 ```
-https://github.com/aybarsumur/instagram-clone.git
+https://github.com/aybarsumur/instagram-clone-bootstrap.git
 ```
